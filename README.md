@@ -4,7 +4,7 @@ I am passionate about developing and using technology for the purpose of problem
 
 I’m currently learning Web development & Fullstack Development 
 
-I’m looking to collaborate on Web & app development.
+I’m looking to collaborate and work on Web & app development.
 
 You can reach me @ malcmakestech@gmail.com
 

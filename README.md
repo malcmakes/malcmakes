@@ -1,4 +1,4 @@
--Hi, I’m malcolm, A software engineer. I evolved from a multimedia designer in my former life.
+Hi, I’m malcolm, A software engineer. I evolved from a multimedia designer in my former life.
  
 I am passionate about developing and using technology for the purpose of problem solving, creativity, and innovation.
 

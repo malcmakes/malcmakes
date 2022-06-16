@@ -1,18 +1,16 @@
 - 👋 Hi, I’m @malcmakes
-- Software engineer. I evolved from a multimedia designer in my previous life.
 - 
-- 👀 I’m interested in ...
-
+- A software engineer. I evolved from a multimedia designer in my previous life.
+- 
 I am passionate about developing and using technology for the purpose of problem solving, creativity, and innovation.
 - 
-- 🌱 I’m currently learning ...
+-I’m currently learning ...
 - Web development & Fullstack Development 
 - 
 - 💞️ I’m looking to collaborate on ...
 - Web & app development.
 - 
 - 📫 How to reach me ...
-- 
 - malcmakestech@gmail.com
 
 <!---

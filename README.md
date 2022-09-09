@@ -1,27 +1,12 @@
-Hi, I’m Malcolm, A Software Engineer from the Pacific Northwest. 
+<h2> Hi, I’m Malcolm, A Software Engineer currently focusing on developing elegant, interactive, and educational web sites & applications. </h2>
 
 <img hight="300" width="300" alt="GIF" align="right" src="https://user-images.githubusercontent.com/99155658/186271337-f194431b-429e-4c89-81bf-cbe938d2cdc1.gif">
 
-
-
- 
-I am passionate about developing and utilizing technology for the purpose of problem solving, creativity, education, and innovation.
 
 ### - Learning : 
 
 - :star: MongoDB
 - :star: Node JS 
-
-
-### - Hobbies : 
-
-- :pencil2: Drawing
-- :musical_keyboard: Music
-- 🛹 Skateboarding
-
-
-I’m looking to collaborate on interactive and educational web applications.
-
 
 
 

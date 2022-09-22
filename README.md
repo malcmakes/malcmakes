@@ -7,6 +7,7 @@
 
 - :star: MongoDB
 - :star: Node JS 
+- :star: TypeScript 
 
 
 

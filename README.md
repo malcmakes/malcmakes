@@ -1,8 +1,11 @@
+![linkd in banner V2](https://user-images.githubusercontent.com/99155658/192938563-482d7118-d83c-44a3-a550-8dbefd80bf0d.png)
+
 <h2> Hi, I’m Malcolm, A Software Engineer currently focusing on developing elegant, interactive, and educational web sites & applications. </h2>
 
 Recently ive been learning Three.js, React, and TypesScript.
 
 <img height="300" width="300" alt="GIF" align="right" src="https://user-images.githubusercontent.com/99155658/186271337-f194431b-429e-4c89-81bf-cbe938d2cdc1.gif">
+
 
 Lanuages:
 

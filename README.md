@@ -1,4 +1,5 @@
-![linkd in banner V2](https://user-images.githubusercontent.com/99155658/192938563-482d7118-d83c-44a3-a550-8dbefd80bf0d.png)
+![linkd in banner V3](https://user-images.githubusercontent.com/99155658/193192867-eb43dc23-6c65-4de4-b403-b29aba06895e.png)
+
 
 <h2> Hi, I’m Malcolm, A Software Engineer currently focusing on developing elegant, interactive, and educational web sites & applications. </h2>
 

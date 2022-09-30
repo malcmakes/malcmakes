@@ -4,7 +4,7 @@
 
 Recently ive been learning Three.js, React, and TypesScript.
 
-<img height="300" width="300" alt="GIF" align="right" src="https://user-images.githubusercontent.com/99155658/186271337-f194431b-429e-4c89-81bf-cbe938d2cdc1.gif">
+
 
 
 Lanuages:

@@ -13,9 +13,11 @@ Lanuages:
 <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/html5-1.svg" width="55" style=" margin:4px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3d/CSS.3.svg/1461px-CSS.3.svg.png" width="55" style=" margin:4px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6a/JavaScript-logo.png/640px-JavaScript-logo.png" width="55" style=" margin:4px"/>
-<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSAtpA-HWcz1NFQ4KhurOvrwPWikCgM5pTZTuFM8iVJTUlQU7Os3WyUJADA9Obut8eCuN4&usqp=CAU" width="55" style=" margin:4px"/>
+
 <img src="https://infinapps.com/wp-content/uploads/2018/10/mongodb-logo.png" width="55" style=" margin:4px"/>
+<img src="https://assets.website-files.com/61ca3f775a79ec5f87fcf937/6202fcdee5ee8636a145a41b_1234.png" width="55" style=" margin:4px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/1200px-React-icon.svg.png" width="55" style=" margin:4px"/>
+<img src="https://miro.medium.com/max/800/1*bc9pmTiyKR0WNPka2w3e0Q.png" width="55" style=" margin:4px"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="55" style=" margin:4px"/>
 </section>
 

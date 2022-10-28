@@ -2,7 +2,7 @@
 
 
 
-<h1> Hi, I’m Malcolm, A Software Engineer currently focusing on Full Stack Web Development. </h1>
+Hi, I’m Malcolm, A Software Engineer currently focusing on Full Stack Web Development.
   
  <h3> I seek to develop elegant, interactive, and educational web sites &  web applications. </h3>
 

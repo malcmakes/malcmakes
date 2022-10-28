@@ -4,7 +4,7 @@
 
 <h2> Hi, I’m Malcolm, A Software Engineer currently focusing on developing elegant, interactive, and educational web sites & applications. </h2>
 
-Recently ive been learning Three.js, React, and TypesScript.
+Recently ive been learning React and TypesScript.
 
 
 

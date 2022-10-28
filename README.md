@@ -2,7 +2,9 @@
 
 
 
-<h2> Hi, I’m Malcolm, A Software Engineer currently focusing on developing elegant, interactive, and educational web sites & applications. </h2>
+<h2> Hi, I’m Malcolm, A Software Engineer currently focusing on Full Stack Web Development. </h2>
+  
+ <h3> I seek to develop elegant, interactive, and educational web sites &  web applications. </h3>
 
 Recently ive been learning React and TypesScript.
 

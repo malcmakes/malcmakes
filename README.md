@@ -6,7 +6,7 @@
   
  <h3> I seek to develop elegant, interactive, and educational web sites &  web applications. </h3>
 
-<h4> Recently ive been learning React and TypesScript. </h4>
+<h4> Recently ive been working on full stack web applications using MERN stack.</h4>
 
 
 

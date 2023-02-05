@@ -4,9 +4,9 @@
 
 <h1> Hi, I’m Malcolm, A Software Engineer with a current focus on <br> Full-Stack Web Development. </h1>
   
- <h3> I seek to develop elegant, interactive, and educational web sites &  web applications. </h3>
+ <h3> I'm passionate about developing elegant, interactive, and educational web sites & web applications. </h3>
 
-<h4> Recently ive been working on full stack web applications using MERN stack.</h4>
+<h4> Recently ive been bettering my  skills in crafting full stack web applications using MERN stack.</h4>
 
 
 

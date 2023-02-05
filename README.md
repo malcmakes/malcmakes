@@ -4,9 +4,16 @@
 
 <h1> Hi, I’m Malcolm, A Software Engineer with a current focus on <br> Full-Stack Web Development. </h1>
   
- <h3> I'm passionate about developing elegant, interactive, and educational web sites & web applications. </h3>
+ <h3> I'm passionate about developing elegant and interactive services/products.</h3>
+ 
 
-<h4> Recently ive been bettering my  skills in crafting full stack web applications using MERN stack.</h4>
+
+<h4> Recently ive been bettering my skills in crafting full stack web applications using MERN stack.</h4>
+
+<section>
+  Connect with me for your next project at: malcmakestech@gmail.com </h3>
+</section>
+
 
 
 
@@ -44,9 +51,6 @@ Tools:
 <a href="https://malcolmharrell.netlify.app"  target="_blank"><img src="https://img.shields.io/badge/-Website-000?style=for-the-badge&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAACAAAAAgCAMAAABEpIrGAAAABGdBTUEAALGPC/xhBQAAAAFzUkdCAK7OHOkAAABOUExUReYsWg+r9jllvhee7Bem8eYsWuUsWg+r9kFYtExpcdIxZSp+0o1DilJTq+QsW+ItXBCp9YNxrm1NnA+r9hCo9OYsWg+r9rE6dzxuwnJPnMSYTBgAAAAadFJOU8uJ8dIYFobL+gDR4+P1sWNiCei0rTY62aim9YOEpgAAANZJREFUOMt90+0SRDAMQNGgRbDaULX7/i+6mEY/tO7fnJmYTgAibe0Ms5KYDRC3Fo5KAlBe86IA2mZ4EyAVwJsA3jAczUoEUQT2aTn7Vj5thQf70l/VY9PdGS0YDG6eiFWTA/unzwpjHZj6Pi80PUEkKuHApyAY7BEIBINhKggGRXGDkvCgIALwFCl4iDEFqXCA/MEkwgG8Ty4RNQNSecEfiSizouZ3wPPPUa3vV5/5l7wuk6RPaNMcdRGIEnr1B5MDgVgt5cAhDG/ALGBRWSqAa8t6zvEP3akc0/X2NW8AAABXelRYdFJhdyBwcm9maWxlIHR5cGUgaXB0YwAAeJzj8gwIcVYoKMpPy8xJ5VIAAyMLLmMLEyMTS5MUAxMgRIA0w2QDI7NUIMvY1MjEzMQcxAfLgEigSi4A6hcRdPJCNZUAAAAASUVORK5CYII=&logoColor=white" alt="Website" title="Website" /></a> <a href="https://www.linkedin.com/in/malcmakes/" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="https://twitter.com/malc_makes" target="_blank"><img alt="Twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </section>
 
-<section>
-<h2> You can reach me at malcmakestech@gmail.com </h2
-</section>
 
 
 

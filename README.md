@@ -3,11 +3,11 @@
 
 
 <h1> Hi, I’m Malcolm, A Software Engineer with a current focus on <br> Full-Stack Web Development. </h1>
+
+
   
  <h3> I'm passionate about developing elegant and interactive services/products.</h3>
  
-
-
 <h4> Recently ive been bettering my skills in crafting full stack web applications using MERN stack.</h4>
 
 <section>
@@ -17,8 +17,7 @@
 
 
 
-
-Lanuages:
+# <h2>Lanuages/Frameworks:</h2>
 
 <section>
 <img src="https://thelogofinder.com/wp-content/uploads/edd/2021/10/html5-1.svg" width="55" style=" margin:4px"/>
@@ -32,7 +31,7 @@ Lanuages:
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4c/Typescript_logo_2020.svg/1200px-Typescript_logo_2020.svg.png" width="55" style=" margin:4px"/>
 </section>
 
-Tools:
+# <h2>Tools:</h2>
 
 <section>
 <img src="https://icon-library.com/images/git-icon/git-icon-10.jpg" width="55" style=" margin:4px"/>

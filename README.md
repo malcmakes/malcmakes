@@ -2,7 +2,7 @@
 
 
 
-<h1> Hi, I’m Malcolm, A Software Engineer with a current focus on <br> Full-Stack Web Development. </h1>
+<h2> Hi, I’m Malcolm, A Software Engineer with a current focus on <br> Full-Stack Web Development. </h2>
 
 
   

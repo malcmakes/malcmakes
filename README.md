@@ -58,7 +58,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo=wordpress&logo-color=white"/>
   </a>
       </p>
-        <p><strong>React.js, JavaScript, Tailwind, CSS</strong> - A react website created for the Nxt Gen Church Ministry.</p>
+        <p><strong>React.js, JavaScript, Tailwind, CSS</strong> - A react website built for the Nxt Gen Church Ministries.</p>
     </td>
   </tr>
   

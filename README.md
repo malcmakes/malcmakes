@@ -37,7 +37,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=REPO&color=ac37cc&style=for-the-badge&logo=github&logo-color=white"/>
   </a>  
   <a href="https://average-kilt-boa.cyclic.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo-color=white"/>
   </a>
       </p>
         <p><strong>Javascript, Bootstrap, Tailwind, Node.js, & Express.js</strong> - service that allows users to buy and sell items. Interested buyers may "bid this" item.</p>
@@ -55,7 +55,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=REPO&color=ac37cc&style=for-the-badge&logo=github&logo-color=white"/>
   </a>
   <a href="https://malcmakes.github.io/nxt-gen-church-website/">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo-color=white"/>
   </a>
       </p>
         <p><strong>React.js, JavaScript, Tailwind, CSS</strong> - A react website built for the Nxt Gen Church Ministries.</p>
@@ -75,7 +75,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=REPO&color=ac37cc&style=for-the-badge&logo=github&logo-color=white"/>
   </a>
   <a href="" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo-color=white"/>
   </a>
       </p>
         <p><strong>HTML5, CSS3, & JavaScript, Node.js, Express, MongoDB</strong> - an App created to help the user learn about different skateboarding tricks.
@@ -94,7 +94,7 @@
     <img src="https://img.shields.io/static/v1?label=&message=REPO&color=ac37cc&style=for-the-badge&logo=github&logo-color=white"/>
   </a>
   <a href="https://malcolmharrell.netlify.app/" target="_blank">
-    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo=wordpress&logo-color=white"/>
+    <img src="https://img.shields.io/static/v1?label=&message=WEBSITE&color=293bbf&style=for-the-badge&logo-color=white"/>
   </a>
       </p>
   <p><strong>HTML, CSS, JavaScript</strong> - Portfolio website including links to my projects and ways to get in contact with me. </p>

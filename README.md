@@ -1,6 +1,6 @@
 
 
-<h2> Hi, I’m Malcolm, An IT Support Specialist. >  </h2>
+<h2> Hi, I’m Malcolm, An IT Support Specialist. </h2>
 
 <h3> I'm passionate about learning and using tech to help other people.</h3>
  

@@ -1,4 +1,4 @@
-![linkd in banner V4](https://user-images.githubusercontent.com/99155658/193193311-875c4be5-92cd-4e98-85dc-49976a0a4627.png)
+
 
 <h2> Hi, I’m Malcolm, An IT Support Specialist. >  </h2>
 

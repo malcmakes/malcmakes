@@ -1,10 +1,10 @@
 ![linkd in banner V4](https://user-images.githubusercontent.com/99155658/193193311-875c4be5-92cd-4e98-85dc-49976a0a4627.png)
 
-<h2> Hi, I’m Malcolm, A Software Engineer with a current focus on <br> Full-Stack Web Development. </h2>
+<h2> Hi, I’m Malcolm, An IT Support Specialist. >  </h2>
 
-<h3> I'm passionate about developing elegant and interactive services/products.</h3>
+<h3> I'm passionate about learning and using tech to help other people.</h3>
  
-<h4> Recently ive been bettering my skills in crafting full stack web applications using MERN stack.</h4>
+
 
 <section>
   Connect with me for your next project at: malcmakestech@gmail.com </h3>

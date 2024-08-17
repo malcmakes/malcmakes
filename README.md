@@ -2,7 +2,7 @@
 
 <h2> Hi, I’m Malcolm, An IT Support Specialist. </h2>
 
-<h3> I'm passionate about learning and exploring ways of using technology to help, improve, and inspire other people.</h3>
+<h3> I'm passionate about learning and exploring ways of using technology to help, improve, and inspire other people's lives.</h3>
  
 
 

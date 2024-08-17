@@ -7,7 +7,7 @@
 
 
 <section>
-  Connect with me for your next project at: malcmakestech@gmail.com </h3>
+  Connect with me at: malcmakestech@gmail.com </h3>
 </section>
 
 
